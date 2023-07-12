@@ -1,0 +1,59 @@
+#div1{
+    height: 100vh;
+    background-image: url(images.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+#lauch{
+    height: 80vh;
+    color: red;
+    text-shadow: 0 0 2px black;
+   
+}
+
+p{
+    text-shadow: 0 0 1px black;
+    color: black;
+}
+
+#div2{
+    height: 60vh;
+}
+
+
+
+#img1{
+    background-image: url(/download\ \(1\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 330px;
+    border: solid 2px white;
+}
+
+#img2{
+    background-image: url(download\ \(2\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 330px;
+    border: solid 2px white;
+}
+
+#img3{
+    background-image: url(/download\ \(3\).jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 330px;
+    border: solid 2px white;
+}
+
+
+@media (min-width: 400px){
+    
+}
