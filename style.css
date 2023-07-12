@@ -27,7 +27,7 @@ p{
 
 
 #img1{
-    background-image: url(/download\ \(1\).jpg);
+    background-image: url(download\ \(1\).jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -45,7 +45,7 @@ p{
 }
 
 #img3{
-    background-image: url(/download\ \(3\).jpg);
+    background-image: url(download\ \(3\).jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
